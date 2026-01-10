@@ -97,7 +97,7 @@ A: The video is on Google Drive. You might need to request access if you're not 
 A: Nope! This scraper works right out of the box.
 
 **Q: Can I scrape other gaming platforms?**  
-A: Currently it's Steam-only, but feel free to fork and extend it!
+A: Ya Currently it can Scrape 3 different Dynamic websites, you can modify the code as you wish
 
 **Q: Is this legal?**  
 A: Yes, for personal projects and research. Just don't abuse it – respect Steam's rate limits and robots.txt.
