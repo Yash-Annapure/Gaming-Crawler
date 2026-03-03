@@ -1,6 +1,6 @@
 # Gaming Crawler 🕹️
 
-Ever wondered what games are trending on Steam or wanted to build your own game database? This Python crawler does exactly that – it grabs detailed game info from Steam so you can analyze, visualize, or just geek out over gaming data.
+Ever wondered what games are trending on Steam or wanted to build your own game database? This Python crawler does exactly that: it grabs detailed game info from Steam so you can analyze, visualize, or just geek out over gaming data.
 
 **Part of our Data Engineering Pipeline project** – check out how we process thousands of game records!
 
